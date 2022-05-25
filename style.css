@@ -1,0 +1,129 @@
+
+.Title{
+    font-family: Arial;
+    font-weight: bold;    
+    color:white;
+    text-align: center;
+    width: 100%; 
+    margin-top: 20px; 
+    padding:0;        
+    border-radius: 25px 50px; 
+    width:500px;    
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); 
+}
+h1{      
+    font-weight: bold;
+    margin:0;
+    width: 100% ;    
+}
+.txt{
+    font-weight: italic;
+    font-size: 12px;
+    font-family: arial;
+}
+body{
+    background-size: cover;
+    background: url("./img1.jpg");
+    background-repeat: no-repeat;
+}
+.txt{
+    background-color: turquoise;
+    font-family: arial;
+    font-weight: bold;
+}
+
+li{
+    color: white;
+}
+.description{
+    color: white;
+}
+div.main{
+    font-family: arial;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: auto;
+    text-align: center;  
+    position: relative;
+}
+.sample{
+    background-color: red;
+    text-transform: uppercase;    
+}
+.skills{
+    color: white;
+    font-family: arial;
+    font-size: 16px;
+}
+h2{
+    text-align: center;
+}
+footer{
+    color:white;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+img{
+    object-fit: cover;    
+    width: 100%;
+    opacity: 0.5; 
+    max-height: 500px;
+}
+.knowledge{
+    top: 0;
+    position: absolute;  
+    text-align: center; 
+    width: 100%;
+}
+#nav li {
+    display:inline;
+ }
+ #nav a:hover
+{
+   color: red;
+   background: black;
+}
+#nav a:link, #nav a:visited {
+    color: black;
+    background: white;
+    padding:20px 15px 4px 6px;
+    float: right;
+    width: auto;
+    border-right:1px solid ;
+    text-transform:uppercase;
+    text-shadow: 2px 2px 2px #555; 
+    opacity: 0.8;
+     }
+#nav{
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: -2px;
+  padding:0;
+}  
+#Contact{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1))
+}
+.section2{
+    color: aliceblue;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-bottom: 10px;    
+}
+table.Info td.explanation{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.id{
+    font-weight: bold;
+    font-size: 35px;
+    color: yellow;
+}
+p.description{
+    color: red;
+}
+.speech{
+    font-size: 18px;
+}
+.white-text{
+    color: white;
+}
